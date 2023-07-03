@@ -216,6 +216,7 @@ main {
 
 .botoes {
    position: relative;
+   margin-left: 5rem;
    right: 5%;
    bottom: 10%;
    display: flex;
